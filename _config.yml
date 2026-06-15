@@ -1,9 +1,5 @@
-yaml
+YAML
 title: Rishabh Kothary
 description: PhD Student in Computer Science, University of Toronto
 theme: jekyll-theme-modernist
 url: "https://rishk19.github.io"
-
-# Optional but helpful settings:
-markdown: kramdown
-highlighter: rouge
