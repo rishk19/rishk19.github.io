@@ -8,6 +8,7 @@
 * **Explicit Nonlinear Functions Beyond the Fourier Bound**<br>
   *with [Swastik Kopparty](https://www.math.toronto.edu/swastik/), [Shanthanu S. Rai](https://shanthanu9.github.io)*<br>
   [ECCC](https://eccc.weizmann.ac.il/report/2026/224/) | [Submitted]
+  
 # Additional Manuscripts
 
 * Bachelor Theses : [Sparsity Bound of Polynomials with Bounded Individual Degree](https://www.cse.iitk.ac.in/users/nitin/theses/kothary-2022.pdf), [Sparsity Bound of Square Polynomials](https://www.cse.iitk.ac.in/users/nitin/theses/kothary-2022-2.pdf) (Won Proficiency Award at IIT Kanpur)
