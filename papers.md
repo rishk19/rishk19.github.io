@@ -7,7 +7,7 @@
 
 * **Explicit Nonlinear Functions Beyond the Fourier Bound**<br>
   *with [Swastik Kopparty](https://www.math.toronto.edu/swastik/), [Shanthanu S. Rai](https://shanthanu9.github.io)*<br>
-  | [arxiv](https://arxiv.org/abs/2610.06362)| [ECCC](https://eccc.weizmann.ac.il/report/2026/224/) | [eprint](https://eprint.iacr.org/2026/2320) | [Submitted]
+  | [arxiv](https://arxiv.org/abs/2610.06362) | [ECCC](https://eccc.weizmann.ac.il/report/2026/224/) | [eprint](https://eprint.iacr.org/2026/2320) | [Submitted]
   
 # Additional Manuscripts
 
