@@ -4,7 +4,7 @@
 
 * **Bounds on polynomial approximations of the discrete logarithm function**<br>
   *with [Swastik Kopparty](https://www.math.toronto.edu/swastik/), [Ashutosh Shankar](https://sites.google.com/view/ashutoshs/home)*<br>
-  | [ECCC](https://eccc.weizmann.ac.il/report/2026/271/) | [Submitted]
+  | [ECCC](https://eccc.weizmann.ac.il/report/2026/271/) | [eprint](https://eprint.iacr.org/2026/2621) | [Submitted]
 
 * **Explicit Nonlinear Functions Beyond the Fourier Bound**<br>
   *with [Swastik Kopparty](https://www.math.toronto.edu/swastik/), [Shanthanu S. Rai](https://shanthanu9.github.io)*<br>
